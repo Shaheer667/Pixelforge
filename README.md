@@ -5,7 +5,7 @@ Built with the App Router, TypeScript, Tailwind CSS, and Google Fonts
 (Fraunces / Inter / JetBrains Mono).
 
 ## Live demo
-https://9jw3cfx6.mule.page/
+https://pixelforge-lyart.vercel.app/
 
 ## Tech stack
 - **Next.js 14** (App Router, static export)
